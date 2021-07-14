@@ -129,6 +129,8 @@ As the Arty S7-50 is all 3.3V logic, connect the wire which links 5V to the **di
   - [Four Ways to Compute an Inverse FFT Using the Forward FFT Algorithm - Rick Lyons, DSPRelated](https://www.dsprelated.com/showarticle/800.php)
 - Digital Audio
   - [Digital Audio Basics: Audio Sample Rate and Bit Depth - Griffin Brown, iZotope](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
+- Signal Propagation - Setup and Hold Time
+  - [Understanding the Basics of Setup and Hold Time - EDN](https://www.edn.com/understanding-the-basics-of-setup-and-hold-time/)
 
 ### Other
 
